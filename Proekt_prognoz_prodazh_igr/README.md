@@ -10,4 +10,4 @@
 
 **Используемые Библиотеки**
 
-Pandas, SciPy, matplotlib, Pyton.
+Pandas, SciPy, matplotlib, seaborn, numpy.
