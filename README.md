@@ -13,5 +13,5 @@
 | 9 | [Исследование воронки продаж](https://github.com/AzElvira/Elya_pro/tree/master/productovaya%20voronka) | Оценка конверсии на основе воронки продаж | pandas, matplotlib, numpy, Scipy, pylab, graph_objects |
 | 10| [Анализ оттока клиентов](https://github.com/AzElvira/Elya_pro/tree/master/Issledovanie%20ottoka%20klientov) | Анализ оттока клиентов и план действий по их удержанию| pandas, matplotlib, numpy, Scipy, Sclearn, seaborn |
 | 11| [SQL](https://github.com/AzElvira/Elya_pro/tree/master/SQL) | Анализ продаж интернет магазина| SQL |
-| 12| [Исследование А\В теста](https://github.com/AzElvira/Elya_pro/tree/master/Issledovanie%20ottoka%20klientov) | Проведение А/В теста для интернет магазина| pandas, matplotlib, numpy, Scipy, Sclearn, seaborn |
+| 12| [Исследование А\В теста](https://github.com/AzElvira/Elya_pro/tree/master/A:B%20test) | Проведение А/В теста для интернет магазина| pandas, matplotlib, numpy, Scipy, Sclearn, seaborn |
 | 13| [Анализ товарного ассортимента и проверка гипотез](https://github.com/AzElvira/Elya_pro/tree/master/E%20commerce) | Выявление сезонной потребности товаров народного потребления| pandas, matplotlib, math, Mystem, numpy, Scipy, pylab, seaborn |
